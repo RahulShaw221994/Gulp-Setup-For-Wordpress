@@ -1,0 +1,18 @@
+{
+    "css": {
+        "src_minify_lint": ["css/custom/**/*.css"],
+        "dest_minify": ["css/min-stylesheet"],
+        "src_concat": ["css/min-stylesheet/**/*.css"],
+        "src_concat_array": ["css/min-stylesheet/style.css", "css/min-stylesheet/carousel.css", "css/min-stylesheet/hero-banner.css", "css/min-stylesheet/responsive.css"],
+        "dest_concat": "css/concat",
+        "combined_filename": "style.min.css"
+    },
+    "js": {
+        "src_minify_lint": ["js/custom/**/*.js"],
+        "dest_minify": ["js/min-script"],
+        "src_concat": ["js/min-script/**/*.js"],
+        "src_concat_array": ["js/min-script/custom.js", "js/min-script/home.js"],
+        "dest_concat": "js/concat",
+        "combined_filename": "concat.min.js"
+    }
+}

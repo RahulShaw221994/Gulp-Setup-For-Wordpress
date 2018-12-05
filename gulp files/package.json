@@ -1,0 +1,24 @@
+{
+  "name": "ss",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "config.json": "0.0.4",
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^3.9.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-eslint": "^4.0.0",
+    "gulp-minify": "^1.0.0",
+    "gulp-order": "^1.1.1",
+    "gulp-stylelint": "^5.0.0",
+    "gulp-uglify": "^3.0.0",
+    "gulp-watch": "^4.3.11",
+    "pump": "^1.0.2"
+  }
+}
