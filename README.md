@@ -1,4 +1,4 @@
-# Gulp Task Runner Setup for your Local Vagrant Mahcine running Wordpress Multi Theme
+# Gulp Task Runner Setup for your Local Mahcine ( I'm using Vagrant ) running Wordpress Multi Theme
 
 The Projects focuses on setting up Gulp task Runner on your local Vagrant Machine running WordPress Multi Theme. This includes various
 tasks such as :
